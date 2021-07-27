@@ -1,4 +1,4 @@
-## Hi, I’m Adrián 👋
+## I’m Adrián 👋
 
 I like create responsive, intuitive and dynamic projects.
 
