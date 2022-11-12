@@ -12,10 +12,10 @@ let aJotaa = {
     { type: code, items: ['HTML', 'CSS', 'JavaScript'] },
     { type: frameworkAndLibraries, items: ['Vue.js', 'React'] },
     { type: preprocessor, items: ['Sass'] },
-    { type: db, items: ['MongoDB'] }
+    { type: db, items: ['SQL', 'MySQL', 'MongoDB'] }
   ],
   experience: [
-    { company: 'Agrimanager', position: 'DB Administrator', where: 'Medellin', remote: true }
+    { company: 'Agrimanager', position: 'Business Analyst', where: 'Medellin', remote: true }
   ]
 }
 ```
