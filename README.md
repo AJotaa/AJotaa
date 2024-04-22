@@ -15,7 +15,8 @@ let aJotaa = {
     { type: db, items: ['SQL', 'MySQL', 'MongoDB'] }
   ],
   experience: [
-    { company: 'Agrimanager', position: 'Business Analyst', where: 'Medellin', remote: true }
+    { company: 'Agrimanager', position: 'Business Analyst', where: 'Medellin', remote: true },
+    { company: 'Astrolle', position: 'Frontend Developert', where: 'Miami', remote: true }
   ]
 }
 ```
