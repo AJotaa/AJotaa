@@ -9,16 +9,56 @@ Persuing continual learnig and grow.
 ```javascript
 let aJotaa = {
   abilities: [
-    { type: code, items: ['HTML', 'CSS', 'JavaScript'] },
-    { type: frameworkAndLibraries, items: ['Vue.js', 'React'] },
-    { type: preprocessor, items: ['Sass'] },
-    { type: db, items: ['SQL', 'MySQL', 'MongoDB'] }
+    {
+      type: "Languages and Tools",
+      items: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    },
+    {
+      type: "Frameworks and Libraries",
+      items: ["Vue.js", "React", "Next.js"],
+    },
+    {
+      type: "Styling and Preprocessors",
+      items: ["Sass", "Tailwind CSS"],
+    },
+    {
+      type: "Build Tools",
+      items: ["Webpack"],
+    },
+    {
+      type: "Databases",
+      items: ["SQL", "MySQL", "MongoDB"],
+    },
+    {
+      type: "Version Control",
+      items: ["GitHub"],
+    },
   ],
   experience: [
-    { company: 'Agrimanager', position: 'Business Analyst', where: 'Medellin', remote: true },
-    { company: 'Astrolle', position: 'Frontend Developert', where: 'Miami', remote: true }
-  ]
-}
+    {
+      company: "NeoSmart",
+      position: "Frontend Developer",
+      location: "Madrid, ES",
+      remote: false,
+    },
+    {
+      company: "Astrolle",
+      position: "Frontend Developer",
+      location: "Miami, US",
+      remote: true,
+    },
+    {
+      company: "Agrimanager",
+      position: "Business Analyst",
+      location: "Medellin, CO",
+      remote: true,
+    },
+  ],
+  languages: [
+    { lang: "Spanish", proficiency: "Native" },
+    { lang: "English", proficiency: "C1" },
+  ],
+};
 ```
 
 ## Contact ☎
